@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>.git</exclude>
+    <exclude>About\img1.png</exclude>
+    <exclude>About\img2.png</exclude>
+    <exclude>About\img3.png</exclude>
+  </Excluded>
+</Configuration>
